@@ -1,4 +1,4 @@
-<h3 align="center">Computer Science student focused on Security Operations, Blue team work, detection engineering, and defensive automation.</h3>
+
 
 - 📫 How to reach me **syedrayyanahmed.pk@gmail.com**
 
